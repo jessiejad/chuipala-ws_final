@@ -1,0 +1,38 @@
+﻿@model IEnumerable<chuipala_ws.Models.Subject>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Les Matières</h2>
+
+<p>
+    @Html.ActionLink("Nouvelle Matière", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Reference)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Label)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reference)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Label)
+        </td>
+        <td>
+            @Html.ActionLink("Détails", "Details", new { id=item.SubjectID }) |
+            @Html.ActionLink("Supprimer", "Delete", new { id=item.SubjectID })
+        </td>
+    </tr>
+}
+
+</table>

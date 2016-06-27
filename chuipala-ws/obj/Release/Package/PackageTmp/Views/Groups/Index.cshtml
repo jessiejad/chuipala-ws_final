@@ -1,0 +1,32 @@
+﻿@model IEnumerable<chuipala_ws.Models.Group>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Les Groupes</h2>
+
+<p>
+    @Html.ActionLink("Nouveau Groupe", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+            @Html.ActionLink("Détails", "Students", new { id=item.GroupID }) |
+            @Html.ActionLink("Supprimer", "Delete", new { id=item.GroupID }) 
+        </td>
+    </tr>
+}
+
+</table>

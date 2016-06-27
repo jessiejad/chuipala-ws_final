@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="chuipala-ws" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\jessi\\Documents\\Visual\ Studio\ 2015\\Projects\\chuipala-ws\\chuipala-ws\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\jessi\\Documents\\Visual\ Studio\ 2015\\Projects\\chuipala-ws\\chuipala-ws\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="DefaultConnection-Web.config Connection String" description="" value="data source=chuipala.database.windows.net;initial catalog=chuipala;user id=bobby;password=azerty159+;multipleactiveresultsets=True;application name=EntityFramework;App=EntityFramework" tags="">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jessi\\Documents\\Visual\ Studio\ 2015\\Projects\\chuipala-ws\\chuipala-ws\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+</parameters>

@@ -1,0 +1,91 @@
+﻿@model chuipala_ws.Models.Class
+@{
+    ViewBag.Title = "Cours";
+}
+<h2>Détails</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <h4>Cours</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.ClassID)
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.ClassID)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ClassID)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.StartDateTime)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.StartDateTime)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.EndDateTime)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.EndDateTime)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.ProfessorIdentity)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.ProfessorIdentity)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.SubjectIdentity)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.SubjectIdentity)
+            </dd>
+            <dt>
+
+            </dt>
+            <dd>
+                @Html.ActionLink("Modifier", "Edit", new { id = Model.ClassID })
+            </dd>
+        </dl>
+    </div>
+    
+    <h4>Groupes</h4>
+
+    <div class="form-group">
+        <label class="col-md-2 control-label">
+            Sélection des groupes du cours
+        </label>
+        <div class="col-md-10">
+            @foreach (var item in ViewBag.Groups)
+            {
+                <input type="checkbox" name="SelectedGroups" value="@item.Value" class="checkbox-inline" checked="@item.Selected" />
+                @item.Text<br />
+            }
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Sauvegader" />
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("Retour à la liste", "Index")
+    </div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

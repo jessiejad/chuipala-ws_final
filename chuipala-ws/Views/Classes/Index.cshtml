@@ -1,0 +1,56 @@
+﻿@model IEnumerable<chuipala_ws.Models.Class>
+
+@{
+    ViewBag.Title = "Les Cours";
+}
+
+<h2>Les Cours</h2>
+
+<p>
+    @Html.ActionLink("Nouveau Cours", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ClassID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EndDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ProfessorIdentity)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SubjectIdentity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ClassID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EndDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProfessorIdentity)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.SubjectIdentity)
+        </td>
+        <td>
+            @Html.ActionLink("Détails", "Groups", new { id=item.ClassID }) |
+            @Html.ActionLink("Supprimer", "Delete", new { id=item.ClassID })
+        </td>
+    </tr>
+}
+
+</table>

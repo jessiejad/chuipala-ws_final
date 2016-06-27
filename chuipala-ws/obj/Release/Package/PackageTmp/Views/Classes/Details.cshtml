@@ -1,0 +1,58 @@
+﻿@model chuipala_ws.Models.Class
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Détails</h2>
+
+<div>
+    <h4>Cours</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ClassID)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClassID)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StartDateTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StartDateTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.EndDateTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.EndDateTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProfessorIdentity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProfessorIdentity)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SubjectIdentity)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SubjectIdentity)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Modifier", "Edit", new { id = Model.ClassID }) |
+    @Html.ActionLink("Retour à la liste", "Index")
+</p>

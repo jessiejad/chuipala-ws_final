@@ -1,0 +1,58 @@
+﻿@model IEnumerable<chuipala_ws.Models.Absence>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Les Absences</h2>
+
+<p>
+    @Html.ActionLink("Nouvelle Absence", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Personne
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StartDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.StopDateTime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.DisplayFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reason)
+        </td>
+
+        <td>
+            @Html.DisplayFor(modelItem => item.StartDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.StopDateTime)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Value)
+            @Html.DisplayFor(modelItem => item.ValueUnit)
+        </td>
+        <td>
+            @Html.ActionLink("Détails", "Classes", new { id=item.EventID }) |
+            @Html.ActionLink("Supprimer", "Delete", new { id=item.EventID })
+        </td>
+    </tr>
+}
+
+</table>

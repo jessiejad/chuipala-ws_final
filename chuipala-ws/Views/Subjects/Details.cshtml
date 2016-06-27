@@ -1,0 +1,37 @@
+﻿@model chuipala_ws.Models.Subject
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Détails</h2>
+
+<div>
+    <h4>Matière</h4>
+    <hr />
+    <dl class="dl-horizontal">
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Reference)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Reference)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Label)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Label)
+        </dd>
+        <dt></dt>
+        <dd>
+            @Html.ActionLink("Modifier", "Edit", new { id = Model.SubjectID })
+        </dd>
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Retour à la liste", "Index")
+</p>

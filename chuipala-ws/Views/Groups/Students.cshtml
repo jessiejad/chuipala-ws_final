@@ -1,0 +1,57 @@
+﻿@model chuipala_ws.Models.Group
+@{
+    ViewBag.Title = "Groupe";
+}
+<h2>Détails</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <h4>Groupe</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.GroupID)
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Name)
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+            <dt></dt>
+            <dd>
+                @Html.ActionLink("Modifier", "Edit", new { id = Model.GroupID })
+            </dd>
+        </dl>
+    </div>
+    
+    <h4>Etudiants</h4>
+
+    <div class="form-group">
+        <label class="col-md-2 control-label">
+            Sélection des étudiants du groupe
+        </label>
+        <div class="col-md-10">
+            @foreach (var item in ViewBag.Students)
+            {
+                <input type="checkbox" name="SelectedStudents" value="@item.Value" class="checkbox-inline" checked="@item.Selected" />
+                @item.Text<br />
+            }
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-10">
+            <input type="submit" class="btn btn-default" value="Sauvegader" />
+        </div>
+    </div>
+
+    <div>
+        @Html.ActionLink("Retour à la liste", "Index")
+    </div>
+}
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

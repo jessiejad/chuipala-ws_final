@@ -1,0 +1,469 @@
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\csc.exe
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\vbc.exe
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll.config
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\chuipala-ws.pdb
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\EntityFramework.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Owin.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Http.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Razor.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\WebGrease.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Razor.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.pdb
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Http.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\EntityFramework.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Razor.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init1.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init2.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init3.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init4.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init5.resources
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csproj.GenerateResource.Cache
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.dll
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.pdb
+C:\Users\jessi\Documents\Visual Studio 2015\Projects\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csprojResolveAssemblyReference.cache
+F:\chuipala-ws\chuipala-ws\bin\roslyn\csc.exe
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\chuipala-ws\chuipala-ws\bin\roslyn\System.Collections.Immutable.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\System.Reflection.Metadata.dll
+F:\chuipala-ws\chuipala-ws\bin\roslyn\vbc.exe
+F:\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe
+F:\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe.config
+F:\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll.config
+F:\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll
+F:\chuipala-ws\chuipala-ws\bin\chuipala-ws.pdb
+F:\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.dll
+F:\chuipala-ws\chuipala-ws\bin\EntityFramework.dll
+F:\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Agent.Intercept.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Web.Infrastructure.dll
+F:\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.dll
+F:\chuipala-ws\chuipala-ws\bin\Owin.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Http.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Razor.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.dll
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.dll
+F:\chuipala-ws\chuipala-ws\bin\WebGrease.dll
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Razor.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.xml
+F:\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.pdb
+F:\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Http.xml
+F:\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.xml
+F:\chuipala-ws\chuipala-ws\bin\EntityFramework.xml
+F:\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.xml
+F:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Helpers.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Mvc.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Optimization.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Razor.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Deployment.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Razor.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Net.Http.Formatting.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.WebHost.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.SqlServer.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+F:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csprojResolveAssemblyReference.cache
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init1.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init2.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init3.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init4.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init5.resources
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csproj.GenerateResource.Cache
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.dll
+F:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.pdb
+E:\chuipala-ws\chuipala-ws\bin\roslyn\csc.exe
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\chuipala-ws\chuipala-ws\bin\roslyn\System.Collections.Immutable.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\System.Reflection.Metadata.dll
+E:\chuipala-ws\chuipala-ws\bin\roslyn\vbc.exe
+E:\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe
+E:\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe.config
+E:\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll.config
+E:\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll
+E:\chuipala-ws\chuipala-ws\bin\chuipala-ws.pdb
+E:\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.dll
+E:\chuipala-ws\chuipala-ws\bin\EntityFramework.dll
+E:\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Agent.Intercept.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Web.Infrastructure.dll
+E:\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.dll
+E:\chuipala-ws\chuipala-ws\bin\Owin.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Http.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Razor.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.dll
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.dll
+E:\chuipala-ws\chuipala-ws\bin\WebGrease.dll
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Razor.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.xml
+E:\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.pdb
+E:\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Http.xml
+E:\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.xml
+E:\chuipala-ws\chuipala-ws\bin\EntityFramework.xml
+E:\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.xml
+E:\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Helpers.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Mvc.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Optimization.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Razor.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Deployment.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Razor.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Net.Http.Formatting.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.WebHost.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.SqlServer.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+E:\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csprojResolveAssemblyReference.cache
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init1.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init2.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init3.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init4.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init5.resources
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csproj.GenerateResource.Cache
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.dll
+E:\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.pdb
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\csc.exe
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\vbc.exe
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll.config
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\chuipala-ws.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\chuipala-ws.pdb
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\EntityFramework.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Owin.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Http.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Razor.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\WebGrease.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.Web.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Newtonsoft.Json.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Helpers.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Mvc.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Optimization.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Razor.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.WebPages.Razor.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Antlr3.Runtime.pdb
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Net.Http.Formatting.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Http.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Http.WebHost.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\EntityFramework.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\EntityFramework.SqlServer.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Helpers.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Mvc.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Optimization.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Razor.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.WebPages.Razor.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Net.Http.Formatting.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\System.Web.Http.WebHost.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\EntityFramework.SqlServer.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\fr\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csprojResolveAssemblyReference.cache
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init1.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init2.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init3.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init4.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init5.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init6.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala_ws.Migrations.Init7.resources
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.csproj.GenerateResource.Cache
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\obj\Release\chuipala-ws.pdb
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Cors.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\System.Web.Cors.dll
+C:\Users\jessi\Documents\GitHub\chuipala-ws\chuipala-ws\bin\Microsoft.Owin.Cors.xml

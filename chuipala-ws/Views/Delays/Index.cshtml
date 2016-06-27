@@ -1,0 +1,56 @@
+﻿@model IEnumerable<chuipala_ws.Models.Delay>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Les Retards</h2>
+
+<p>
+    @Html.ActionLink("Nouveau Retard", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Personne
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Reason)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Value)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ValueUnit)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Class.ClassIdentity)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.User.DisplayFullName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Reason)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Value)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ValueUnit)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Class.ClassIdentity)
+        </td>
+        <td>
+            @Html.ActionLink("Détails", "Details", new { id=item.EventID }) |
+            @Html.ActionLink("Supprimer", "Delete", new { id=item.EventID })
+        </td>
+    </tr>
+}
+
+</table>
